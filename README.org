@@ -14,3 +14,4 @@ My projects:
 - [[https://github.com/px86/fisherman][fisherman]], [[https://github.com/px86/fisherman-backend][fisherman-backend]] : a phishing tool (CLI script + backend code)
 - [[https://github.com/px86/album-splitter][album-splitter]] : split an album into multiple tracks
 - [[https://github.com/px86/css-minifier][css-minifier]] : minify CSS
+- [[https://github.com/px86/dff][dff]] : duplicate files finder in C++
