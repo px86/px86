@@ -1,0 +1,16 @@
+#+TITLE: Pushkar Raj
+#+AUTHOR: Pushkar Raj
+#+AUTHOR: px86@protonmail.com
+
+Hello I'm a young programmer from India.
+
+My projects:
+
+- [[https://github.com/px86/linereader][linereader]] : provides line editing and history capabilities to interactive programs
+- [[https://github.com/px86/nights-watch][nights-watch]] : watches files for modification and re-executes the given command every-time it happens
+- [[https://github.com/px86/png-steganography-tool][png-steganography-tool]] : hide information inside PNG images
+- [[https://github.com/px86/pxurl][pxurl]] : a URL shortening webapp
+- [[https://github.com/px86/codebin][codebin]] : a hastebin clone for sharing code snippets (with syntax highlighting)
+- [[https://github.com/px86/fisherman][fisherman]], [[https://github.com/px86/fisherman-backend][fisherman-backend]] : a phishing tool (CLI script + backend code)
+- [[https://github.com/px86/album-splitter][album-splitter]] : split an album into multiple tracks
+- [[https://github.com/px86/css-minifier][css-minifier]] : minify CSS
