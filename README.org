@@ -2,7 +2,7 @@
 #+AUTHOR: Pushkar Raj
 #+EMAIL: px86@protonmail.com
 
-I'm a young programmer based in Bengaluru, India.
+I'm a young programmer from India.
 
 Some of my projects:
 
