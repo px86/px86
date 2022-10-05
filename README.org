@@ -16,3 +16,4 @@ Some of my projects:
 - [[https://github.com/px86/fisherman][fisherman]], [[https://github.com/px86/fisherman-backend][fisherman-backend]] : a phishing tool (CLI script + backend code)
 - [[https://github.com/px86/album-splitter][album-splitter]] : splits an album(audio file) into multiple tracks
 - [[https://github.com/px86/css-minifier][css-minifier]] : minifies CSS for deployment
+- [[https://github.com/px86/bmee][bmee]] : Basic mathematical expressions evaluator
