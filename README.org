@@ -6,9 +6,11 @@ I'm a young programmer from India.
 
 Some of my projects:
 
+- [[https://github.com/px86/dfc][dfc]] : A command line tool written in *golang*, that finds duplicate files in a given directory tree, and interactively asks the user which file they want to keep.
+- [[https://github.com/px86/gsync][gsync]] : A python tool for syncing files between google drive and local file system.
 - [[https://github.com/px86/linereader][linereader]] : C++ library providing line editing and history capabilities to interactive CLI programs
 - [[https://github.com/px86/hush][hush]] : a UNIX shell supporting IO re-directions, piping, background execution etc.
-- [[https://github.com/px86/dff][dff]] : recursively finds and lists duplicate files
+- [[https://github.com/px86/dff][dff]] : recursively finds and lists duplicate files, written in C++
 - [[https://github.com/px86/nights-watch][nights-watch]] : watches file(s) for modifications and re-executes a given command
 - [[https://github.com/px86/png-steganography-tool][png-steganography-tool]] : hides information inside PNG images
 - [[https://github.com/px86/pxurl][pxurl]] : a URL shortening webapp built using Nodejs, Express and MongoDB Atlas
