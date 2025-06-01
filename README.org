@@ -10,17 +10,17 @@
 ** Github Stats
 
 #+html: <p>
-#+html: <img src="https://github-readme-stats.vercel.app/api?username=px86&show_icons=true&theme=highcontrast" alt="px86" />
+#+html: <img src="https://github-readme-stats.vercel.app/api?username=px86&show_icons=true&theme=gruvbox" alt="px86" />
 #+html: </p>
 
 #+html: <p>
-#+html: <img src="https://github-readme-streak-stats.herokuapp.com?user=px86&theme=highcontrast&hide_border=true" alt="streak-stats" />
+#+html: <img src="https://github-readme-streak-stats.herokuapp.com?user=px86&theme=gruvbox&hide_border=true" alt="streak-stats" />
 #+html: </p>
 
 #+html: <p>
-#+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=px86&theme=highcontrast" alt="top-langs" />
+#+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=px86&theme=gruvbox&compact=true" alt="top-langs" />
 #+html: </p>
 
 #+html: <p align="center">
-#+html: <img src="https://github-profile-trophy.vercel.app/?username=px86&theme=highcontrast&no-frame=true" />
+#+html: <img src="https://github-profile-trophy.vercel.app/?username=px86&theme=gruvbox&no-frame=true" />
 #+html: </p>
