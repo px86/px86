@@ -22,5 +22,5 @@
 #+html: </p>
 
 #+html: <p align="center">
-#+html: <img src="https://github-profile-trophy.vercel.app/?username=px86&theme=matrix&no-frame=true" />
+#+html: <img src="https://github-profile-trophy.vercel.app/?username=px86&theme=matrix&no-frame=true&column=5" />
 #+html: </p>
