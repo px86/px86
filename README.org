@@ -2,6 +2,8 @@
 #+author: Pushkar Raj
 #+email: px86@protonmail.com
 
+I am a developer based in India.
+
 ** Contact Me
 
 | Telegram | [[https://t.me/provoider][@provoider]]          |
@@ -21,6 +23,6 @@
 #+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=px86&theme=highcontrast&layout=compact&hide_border=true&card_width=500" alt="top-langs" />
 #+html: </p>
 
-#+html: <p align="center">
+#+html: <p>
 #+html: <img src="https://github-profile-trophy.vercel.app/?username=px86&theme=matrix&no-frame=true&column=5" />
 #+html: </p>
